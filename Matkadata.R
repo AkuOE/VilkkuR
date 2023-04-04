@@ -73,7 +73,7 @@ shinyApp(
       
       matkadf <- read.csv2(tiedosto)
       
-      print(moi)
+      print(moro)
       
     })#ObserveEvent close
   })#ShinyServer close
